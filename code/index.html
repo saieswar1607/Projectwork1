@@ -1,10 +1,39 @@
-<html>
-  <head>
-    <title>
-      My Project
-    </title>
-  </head>
-  <body>
-    <h1> My Project </h1>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourism Bot</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+    <header>
+        <div class="nav">
+            <div class="logo">Travel Genie</div>
+            <div class="menu">
+                <a href="#">Home</a>
+                <a href="#">Chatbot</a>
+                <a href="#">Contact Us</a>
+                <a href="#">Sign In</a>
+                <a href="#">Sign Up</a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="chat-container">
+            <div class="chat-header">
+                <h1>CHAT WITH TB</h1>
+                <p>Welcome user, please be patient and let TB know your requirements!</p>
+            </div>
+            <div class="chat-window" id="chat-window">
+                <div class="chat-message bot">Hello, I am TB to help you out</div>
+            </div>
+            <div class="chat-input">
+                <input type="text" id="user-input" placeholder="Type your message here...">
+                <button id="send-btn">Send</button>
+            </div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
 </html>
