@@ -33,19 +33,19 @@ This architecture ensures that Travel Genie: Your Custom Itinerary Planner is ef
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 
 
-<img width="323" alt="image" src="https://github.com/user-attachments/assets/e5dd55b9-e7a0-4bd0-9070-7a05a1ea5c57" />
+![Img2](https://github.com/user-attachments/assets/39abd4ac-3bb6-4a3b-8cd8-6f2f7c4fa9bf)
 
 #### Output2
 
-<img width="319" alt="image" src="https://github.com/user-attachments/assets/f1461908-69af-4357-9ed4-564d84c43392" />
+![Img3](https://github.com/user-attachments/assets/21026157-73d4-4966-9329-ce07786aa697)
 
 #### Output3
 
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/e7186887-84fd-4f91-8fb1-53a84b66c95c" />
+![Img5](https://github.com/user-attachments/assets/04dea876-b392-4f5d-ab27-b0a1a5a23e90)
 
 #### Output4
 
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/ff03a883-c71f-4633-9858-f61848ae4c5e" />
+![Img7](https://github.com/user-attachments/assets/e195fdc9-508d-4eba-a67f-fdb5a83358d0)
 
 
  Accuracy: 95%
